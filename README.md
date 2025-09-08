@@ -44,6 +44,3 @@ Test → Accuracy: 0.9083, ROC-AUC: 0.9585<br><br>
 ## Limitations  
 - Based on a Kaggle dataset; real-world validation is needed on larger, diverse clinical datasets.<br>
 - Some code redundancy is present due to collaborative group work.<br><br>
-
-## License  
-Open-source for academic and research purposes. Please cite this repository if used.<br>

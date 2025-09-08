@@ -32,7 +32,7 @@ Test → Accuracy: 0.9083, ROC-AUC: 0.9585<br><br>
 
 ### ROC-AUC Curve Comparison
 <p align="center">
-  <img src="roc_auc.png" alt="ROC-AUC Curve Comparison" width="600"/>
+  <img src="ROC-AUC.png" alt="ROC-AUC Curve Comparison" width="600"/>
 </p>
 
 ## Observations  
